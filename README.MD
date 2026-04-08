@@ -23,7 +23,7 @@ No third-party packages are required.
 
 ```bash
 git clone https://github.com/Gyanamkumar/port-scanner.git
-cd nmap_portscan_gui
+cd port-scanner
 ```
 
 ## Usage
